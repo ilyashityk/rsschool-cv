@@ -1,4 +1,4 @@
-# [rsschool-cv](https://rs.school)
+# [rsschool-cv](https://ilyashityk.github.io/rsschool-cv/cv)
 # Ilya Dyleika
 # Contact Info
 * Phone: +375 (29) 766 52 85
